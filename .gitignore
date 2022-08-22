@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.vsidx
+*.lock
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+.vs/slot_machine/v17/.suo
+*.ipch
