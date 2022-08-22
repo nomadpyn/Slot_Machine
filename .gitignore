@@ -42,3 +42,9 @@
 *.opendb
 .vs/slot_machine/v17/.suo
 *.ipch
+*.log
+*.tlog
+*.idb
+*.pdb
+*.recipe
+*.ilk
