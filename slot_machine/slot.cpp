@@ -1,8 +1,7 @@
 ﻿#include "slot.h"
 #include<iostream>
-
 using namespace std;
-
+// метод вращения слот машины
 void slot::spin() {
 	char rslt[3]{ slm[0].getChar(),slm[1].getChar(),slm[2].getChar() };
 	cout << rslt[0] << " | " << rslt[1] << " | " << rslt[2] << endl;

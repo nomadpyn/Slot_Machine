@@ -1,10 +1,11 @@
 ﻿#pragma once
 #include"drum.h"
-using namespace std;
+// класс слот машины
 class slot
 {
 	drum slm[3]{};
 public:
+// описание методов класса
 	void spin();
 };
 
